@@ -1,0 +1,34 @@
+
+body{
+    scroll-behavior: smooth;
+    width: 100%;
+
+}
+h1{
+    color: #0B2447;
+}
+h2{
+    color: #19376D;
+}
+h1, h2, p{
+    padding: 10px;
+}
+
+img{
+    width: 50%;
+}
+p{
+    display: inline-block;
+}
+table{
+    width: 100%;
+}
+table, td{
+    border: 1px solid #19376D;
+    border-collapse: collapse;
+    padding: 10px;
+}
+thead{
+    font-weight: bold;
+    color:#0B2447;
+}
