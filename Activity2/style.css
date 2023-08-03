@@ -1,0 +1,28 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    scroll-behavior: smooth;
+}
+fieldset{
+    min-height: 50vh;
+}
+
+h1{
+    color:  rgb(0, 68, 95);
+}
+
+input{
+    margin: 2px;
+}
+textarea{
+    border: 2px solid rgb(0, 109, 151);
+}
+.submit{
+    background-color: rgb(0, 68, 95);
+    color: white;
+    width: 60px;
+    height: 30px;
+    border-radius: 3px;
+    border: none;
+}
